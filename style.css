@@ -1,0 +1,28 @@
+	#wrapper {
+		padding-top: 20px;
+		margin-left: auto;
+		margin-right: auto;
+		max-width: 1200px;
+		height: auto;
+	}
+	
+	body {
+		background-color: #E0FFFF;
+	}
+	
+	.imgStyle {
+		height: 250px;
+		border: #000000 1px solid;
+	}
+	
+	footer {
+		width: 100%;
+		bottom: 0;
+		position: fixed;
+		text-align: center;
+		background-color: #008B8B;
+	}
+	
+	footer a {
+		color: #fff;
+	}
