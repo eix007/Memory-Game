@@ -11,7 +11,7 @@ Like any other memory game simple playing by using mouse click to find 2 same im
 12/11/2016 - initial uploade.
 
 ## Future Plans
-* Add a score counter to count how much clicks made and calculate the clicks make score by find a match.
+* ~~Add a score counter to count how much clicks made and calculate the clicks make score by find a match~~.
 * Add a timer to the game.
 * Add a End Game message.
 * Customize the game style
